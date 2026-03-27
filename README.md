@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://railway.com/deploy/htmx-go-fiber-postgresql-starter-kit">
+  <a href="https://railway.com/deploy/htmx-go-fiber-starter">
     <img src="https://railway.com/button.svg" alt="Deploy on Railway">
   </a>
 </p>
